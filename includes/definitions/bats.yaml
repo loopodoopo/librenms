@@ -1,0 +1,8 @@
+os: bats
+text: 'bats'
+type: network
+icon: bats
+mib_dir: bats
+discovery:
+    - sysObjectID:
+        - .1.3.6.1.4.1.37069
